@@ -1,0 +1,37 @@
+[
+    {
+        "id": "101",
+        "name": "Aarav Sharma",
+        "department": "Engineering",
+        "role": "Backend Developer",
+        "salary": "85000"
+    },
+    {
+        "id": "102",
+        "name": "Priya Patel",
+        "department": "Design",
+        "role": "UI/UX Designer",
+        "salary": "72000"
+    },
+    {
+        "id": "103",
+        "name": "Rohan Verma",
+        "department": "Marketing",
+        "role": "SEO Specialist",
+        "salary": "60000"
+    },
+    {
+        "id": "104",
+        "name": "Ananya Iyer",
+        "department": "Data Science",
+        "role": "Data Analyst",
+        "salary": "78000"
+    },
+    {
+        "id": "105",
+        "name": "Vikram Singh",
+        "department": "Engineering",
+        "role": "DevOps Engineer",
+        "salary": "90000"
+    }
+]
